@@ -7,13 +7,15 @@ AI & Automation Engineer. An electrical engineer who moved into data and AI. I b
 ### Featured
 
 - **[portfolio](https://github.com/monkaS013/portfolio)** — index of my work: open-source repos plus sanitized case studies of production systems (EN + PT).
-- **[nl2sql-ecommerce-agent](https://github.com/monkaS013/nl2sql-ecommerce-agent)** — natural-language-to-SQL agent with a SQL safety layer and a self-repair loop.
+- **[rag-docs](https://github.com/monkaS013/rag-docs)** — offline-first RAG: a LangGraph pipeline over pgvector, five OWASP-LLM guardrails, and a precision@k eval.
+- **[brasilapi-mcp](https://github.com/monkaS013/brasilapi-mcp)** — an MCP server I wrote from scratch, exposing the public BrasilAPI as eight tools.
+- **[multi-llm-ensemble-extractor](https://github.com/monkaS013/multi-llm-ensemble-extractor)** — three LLM providers read the same document in parallel and each field is consolidated by majority vote.
+- **[nl2sql-ecommerce-agent](https://github.com/monkaS013/nl2sql-ecommerce-agent)** — asks in plain language, computes the number in a sandbox, and shows the code and the source.
 - **[doc-analyzer-evals](https://github.com/monkaS013/doc-analyzer-evals)** — structured document extraction with a gold-standard evaluation harness.
-- **[claude-usage-monitor](https://github.com/monkaS013/claude-usage-monitor)** — a Windows widget for the real usage of the Claude plan.
 
 ### Stack
 
-Python · RAG · LangGraph · agents · FastAPI · Next.js · DuckDB · SQL · Power BI
+Python · RAG · pgvector · LangGraph · agents · MCP · evals · FastAPI · Next.js · DuckDB · SQL · Power BI
 
 ### Contact
 
